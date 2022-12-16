@@ -1,6 +1,6 @@
 # Bandit Task
 
-[Youtube Tutorial]("https://youtube.com/playlist?list=PLBf0hzazHTGOIn_vuuuCzRFVhYiDBnJID") I used for some help here and there
+[Youtube Tutorial](https://youtube.com/playlist?list=PLBf0hzazHTGOIn_vuuuCzRFVhYiDBnJID) I used for some help here and there
 
 <br>
 
