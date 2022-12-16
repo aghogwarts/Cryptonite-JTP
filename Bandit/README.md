@@ -5,7 +5,7 @@
 ###### Level 0:
 
 jarvis@JARVIS:~$ ssh bandit0@bandit.labs.overthewire.org -p 2220
-![Level 0](./assets/level0-1.png=50x)
+![Level 0](./assets/level0-1.png)
 ![Level 0](./assets/level0-2.png)
 
 ###### Level 1:
