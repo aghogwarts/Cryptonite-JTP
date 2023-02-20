@@ -1,7 +1,8 @@
 # Writeup for the PicoCTF Challenge - tunn3l v1s10n
 
-```fix
-completed this task with some help
+```diff
++ completed this task
+- took some help of the internet here and there
 ```
 
 ![Challenge](./assets/Screenshot%202023-02-19%20at%206.53.03%20PM.png)
@@ -19,7 +20,7 @@ As you see the header of the file starts with BM indicating it's a Bitmap file f
 ![Opening_Bmp](./assets/Screenshot%202023-02-19%20at%207.32.51%20PM.png)
 
 Okay so this doesn't work and I guess the file might be corrupted so I reopen the `.bmp` renamed file with the Hex Editor.
-Reading this ![Wikipedia](https://en.wikipedia.org/wiki/BMP_file_format) link I find that the hex values in the header are corrupted (showing some letter combinations for example BA D0). I didn't find a way to proceed further so I took help of this ![article](https://hackmd.io/@UHzVfhAITliOM3mFSo6mfA/rJt5yM26s) to change the values to `38 00` and `28 00` respectively
+Reading this [Wikipedia](https://en.wikipedia.org/wiki/BMP_file_format) link I find that the hex values in the header are corrupted (showing some letter combinations for example BA D0). I didn't find a way to proceed further so I took help of this [article](https://hackmd.io/@UHzVfhAITliOM3mFSo6mfA/rJt5yM26s) to change the values to `38 00` and `28 00` respectively
 
 ![Changing_hex](./assets/Screenshot%202023-02-19%20at%208.57.15%20PM.png)
 
@@ -37,7 +38,7 @@ Now opening the bitmap image we get the actual flag `picoCTF{qu1t3_a_v13w_2020}`
 
 ## Links I referred to
 
-https://en.wikipedia.org/wiki/BMP_file_format
-https://www.youtube.com/watch?v=X4kJiQdDn7M
-https://hackmd.io/@UHzVfhAITliOM3mFSo6mfA/rJt5yM26s
-https://coolconversion.com/math/binary-octal-hexa-decimal
+-   https://en.wikipedia.org/wiki/BMP_file_format
+-   https://www.youtube.com/watch?v=X4kJiQdDn7M
+-   https://hackmd.io/@UHzVfhAITliOM3mFSo6mfA/rJt5yM26s
+-   https://coolconversion.com/math/binary-octal-hexa-decimal
