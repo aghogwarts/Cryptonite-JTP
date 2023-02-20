@@ -1,7 +1,7 @@
 # Writeup for the PicoCTF Challenge - tunn3l v1s10n
 
-```bash
-$completed this task with some help
+```fix
+completed this task with some help
 ```
 
 ![Challenge](./assets/Screenshot%202023-02-19%20at%206.53.03%20PM.png)
