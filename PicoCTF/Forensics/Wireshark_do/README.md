@@ -4,7 +4,9 @@
 + completed the challenge
 ```
 
+<!---
 ![Task](./assets/Screenshot%202023-02-19%20at%2011.41.48%20PM.png)
+-->
 
 Downloaded the file from this site and this was the first time in my life I had encountered a `.pcapng` file so I looked it up and found it to be some kind of next generation file format for storing web packets and that it had to be opened with a Software called `Wireshark` again I looked it up to understand what is Wireshark ;-; I found out that wireshark is used to analyse and collect network packet data so I visited the [Wireshark](https://www.wireshark.org) site to download it and found out this [video](https://youtu.be/lb1Dw0elw0Q) to learn Wireshark. Then I opened this file in Wireshark
 

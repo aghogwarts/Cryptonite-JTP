@@ -6,7 +6,9 @@
 - couldn't complete it due to the lack of a MacOS version of steghide
 ```
 
+<!---
 ![Task](./assets/Screenshot%202023-02-20%20at%202.00.16%20AM.png)
+-->
 
 Downloaded the files for the task from this site and opened it using wireshark because it was a packet file
 

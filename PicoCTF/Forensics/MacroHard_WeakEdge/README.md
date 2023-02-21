@@ -4,7 +4,9 @@
 + completed the challenge
 ```
 
+<!---
 ![Challenge](./assets/Screenshot%202023-02-20%20at%201.27.58%20AM.png)
+-->
 
 Downloaded the pptm file for the task from this site and tried opening it but it didn't open. Since I've worked with macro enabled ppts and excel sheets before, I know macro enabled files have a different extension. I tried to lookup on the internet for macro enabled ppts more and found that we can unzip them then I remembered how in the Cryptonite meeting the guy had hidden a virus inside a ppt so I directly tried unzipping the ppt using the `unzip` command
 

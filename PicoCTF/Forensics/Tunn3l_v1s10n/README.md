@@ -6,7 +6,9 @@
 - took some help of the internet here and there
 ```
 
+<!---
 ![Challenge](./assets/Screenshot%202023-02-19%20at%206.53.03%20PM.png)
+-->
 
 I downloaded the file from the site above and tried opening it but turns out it's just a collection of data in hex
 
