@@ -1,9 +1,9 @@
 # PicoCTF
 
 ```diff
-+ gone through 9 challenges so far
++ gone through  challenges so far
 
-- completed 8
+- completed 9
 ```
 
 Navigate through the respective domain folders for the writeups of the tasks
