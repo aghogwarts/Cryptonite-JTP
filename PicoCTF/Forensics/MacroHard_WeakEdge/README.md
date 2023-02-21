@@ -16,6 +16,8 @@ In the files above ofc `slideMasters/hidden` seems the most sus file so I tried 
 
 I tried using `rot13` but it didn't work so I tried `base64` which for some reason didn't work for me after several attempts of doing it through the terminal so I finally resorted to an online site for it which decoded it and we found `flag: picoCTF{D1d_u_kn0w_ppts_r_z1p5}`
 
+![Online_base64](./assets/Screenshot%202023-02-20%20at%201.56.57%20AM.png)
+
 ## Links used for additional information
 
 -   https://dmfrsecurity.com/2021/08/24/picoctf-2021-macrohard-weakedge/
